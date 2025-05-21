@@ -3,3 +3,5 @@ body {
   color: beige;
 }
 /*  git restore --staged + tên file là back lại về trạng thái trc đó " chưa add" */
+/* git checkout -b + tên nhánh */
+/* git checkout main chuyển qua nhánh main*/
