@@ -1,10 +1,6 @@
 body {
   background-color: aqua;
-<<<<<<< HEAD
   color: blue;
-=======
-  color: red;
->>>>>>> 169b90b3bdcb4076cac7aec45066965c16144ea0
 }
 /*  git restore --staged + tên file là back lại về trạng thái trc đó " chưa add" */
 /* git checkout -b + tên nhánh */
@@ -12,3 +8,4 @@ body {
 /* git merge + tên nhánh để lấy code từ nhánh */
 /* git checkout +  mã commit khi git log thì sẽ trở về lúc commit đó*/
 /* sau đó git checkout + tên nhánh sẽ trở code nhánh đầy đủ  */
+/* gitignore bỏ tên file vào đó sẽ không đẩy dữ liệu file đc  */
