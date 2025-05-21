@@ -1,6 +1,10 @@
 body {
   background-color: aqua;
+<<<<<<< HEAD
   color: blue;
+=======
+  color: red;
+>>>>>>> 169b90b3bdcb4076cac7aec45066965c16144ea0
 }
 /*  git restore --staged + tên file là back lại về trạng thái trc đó " chưa add" */
 /* git checkout -b + tên nhánh */
