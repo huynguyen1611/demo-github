@@ -6,4 +6,5 @@ body {
 /* git checkout -b + tên nhánh */
 /* git checkout main chuyển qua nhánh main*/
 /* git merge + tên nhánh để lấy code từ nhánh */
-/* git checkout +  */
+/* git checkout +  mã commit khi git log thì sẽ trở về lúc commit đó*/
+/* sau đó git checkout + tên nhánh sẽ trở code nhánh đầy đủ  */
